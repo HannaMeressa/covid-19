@@ -2,13 +2,13 @@
 <html>
     <head><meta charset="utf-8" /></head>
     <body>
-        <center><h1>Prediction of COVID-2019 rise and fall with an improved prediction model</h1>
-            <b>Shreshth Tuli</b> (Department of CSE, IIT Delhi)<br>
-            <b>Shikhar Tuli</b> (Department of EE, IIT Delhi)<br>
-		<b>Ruchi Verma</b> (PBEL, Hyderabad)<br>
-            <b>Rakesh Tuli</b> (DIC, UIET, Panjab University)<br>
+        <center><h1><b>American Collge Of Technology</b> (Department of MSCS)<br></h2>
+		<h1>Prediction of COVID-2019 an improved prediction model</h1>
 
-            See published paper in the <i><a href='https://www.medrxiv.org/content/10.1101/2020.06.18.20134874v1'>medRxiv</a></i> for more details. Source code available on <i><a href='https://github.com/shreshthtuli/covid-19-prediction'>GitHub</a></i> under BSD-2 license.</i>
+            <h3><b>Data Mining</b> Project<br><h3>
+		    <b>Hanna Meressa</b> <br>
+            
+            </a></i> for more details. Source code available on <i><a href='https://github.com/HannaMeressa/covid-19'>GitHub
 
             <br>
 
